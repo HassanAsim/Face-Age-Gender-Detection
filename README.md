@@ -29,4 +29,4 @@ This project demonstrates a real-time application for detecting faces and predic
 - Run the Python script with your input video file:
 
 ```bash
-python your_script_name.py
+python face-detection-age-gender.py.py
