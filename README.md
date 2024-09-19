@@ -18,6 +18,11 @@ This project demonstrates a real-time application for detecting faces and predic
 - **Age Prediction Model**: Model trained on the Adience dataset.
 - **Gender Prediction Model**: Model trained on the Adience dataset.
 
+## ScreenShots:
+![image](https://github.com/user-attachments/assets/cf5b16d2-e651-4fd4-a989-7dfe810f03a8)
+
+![image](https://github.com/user-attachments/assets/1c113bae-2008-4b65-8bb2-4b6be3623023)
+
 ## How It Works:
 1. The input video is processed frame by frame.
 2. Faces are detected using a pre-trained SSD model.
@@ -30,3 +35,4 @@ This project demonstrates a real-time application for detecting faces and predic
 
 ```bash
 python face-detection-age-gender.py.py
+
